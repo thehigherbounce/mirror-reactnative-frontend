@@ -2,7 +2,7 @@
 import { Platform,Dimensions} from 'react-native';
 //export const API_URL = Platform.OS === 'ios' ? 'API_URL' : 'API_URL';
 export const API_URL = Platform.OS === 'ios' ? API_URL : API_URL;
-//export const SOCKET_URL = 'http://192.168.111.214:3000';
+
  export const SOCKET_URL = SOCKET_URL;
 
 export const STORAGE_KEY = "@STORAGE_KEY";
